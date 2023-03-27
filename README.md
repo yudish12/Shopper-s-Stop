@@ -36,4 +36,6 @@ You may also see any lint errors in the console.
 
 we have cart,filter,header,rating components to handle all these and manage state using context api in it
 
-#### Deployed Link
+### Deployed Link
+
+[https://shopper-s-stop.vercel.app/]
