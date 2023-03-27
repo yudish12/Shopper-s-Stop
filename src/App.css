@@ -1,0 +1,49 @@
+.nav-link {
+  color: white !important;
+}
+.icon {
+  color: white;
+}
+
+.productContainer {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 2rem auto;
+  justify-content: space-around;
+  padding: 20px;
+  width: 78%;
+}
+.products {
+  margin: 10px;
+  width: 30%;
+}
+.home {
+  display: flex;
+}
+.filter {
+  background-color: #343a40;
+  color: #d2d6d2;
+  display: flex;
+  flex-direction: column;
+  height: 86vh;
+  margin: 10px;
+  padding: 20px;
+  width: 20%;
+}
+.filter span {
+  padding-bottom: 25px;
+}
+.title {
+  font-size: 30px;
+}
+.pos {
+  top: 94% !important;
+  left: -285px !important;
+}
+.cart-items {
+  display: flex;
+}
+.link {
+  text-decoration: none;
+  color: whitesmoke;
+}
