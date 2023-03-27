@@ -25,7 +25,7 @@ const Header = () => {
         </Nav>
         <Nav>
           <Form.Control
-            className="m-auto"
+            className="m-auto search"
             size="md"
             style={{ width: 500 }}
             type="search"
